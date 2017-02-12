@@ -1,0 +1,16 @@
+body
+	{		
+		background-image: url(TercelBackground.jpg);
+		color: #E0E0E0;
+	}
+
+figure
+	{
+		width: 875px; border: 1px solid #E0E0E0; padding: 5 px;
+	}
+	
+figcaption
+	{
+		text-align: center;
+	}
+	
